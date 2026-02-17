@@ -1,5 +1,17 @@
-{
-    "name": "Ali",
-    "age": 25,
-    "city": "Cairo"
-}
+[
+    {
+        "Name": "Google Chrome",
+        "ID": "Google.Chrome",
+        "URL": "https://dl.google.com/chrome/install/latest/chrome_installer.exe"
+    },
+    {
+        "Name": "VLC Media Player",
+        "ID": "VideoLAN.VLC",
+        "URL": "https://get.videolan.org/vlc/latest/win64/vlc-3.0.16.1-win64.exe"
+    },
+    {
+        "Name": "PowerToys",
+        "ID": "Microsoft.PowerToys",
+        "URL": "https://aka.ms/GetPowerToys"
+    }
+]
